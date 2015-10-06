@@ -567,21 +567,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document37]
-DocumentPath=power-v1v1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-
-[Document38]
 DocumentPath=power-v0v75.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -596,7 +581,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document39]
+[Document38]
 DocumentPath=clock-top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -611,7 +596,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document40]
+[Document39]
 DocumentPath=copper_suicide.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,7 +611,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document41]
+[Document40]
 DocumentPath=config-bank0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -641,7 +626,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document42]
+[Document41]
 DocumentPath=config-bank1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -656,7 +641,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document43]
+[Document42]
 DocumentPath=config-bank2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -671,7 +656,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document44]
+[Document43]
 DocumentPath=config-bank3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -686,7 +671,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document45]
+[Document44]
 DocumentPath=config-bank4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +686,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document46]
+[Document45]
 DocumentPath=config-bank6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -716,7 +701,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document47]
+[Document46]
 DocumentPath=config-bank7.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -731,7 +716,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document48]
+[Document47]
 DocumentPath=config-bank8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +731,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document49]
+[Document48]
 DocumentPath=config-ground.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -761,7 +746,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document50]
+[Document49]
 DocumentPath=config-misc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -776,7 +761,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document51]
+[Document50]
 DocumentPath=config-power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -791,7 +776,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document52]
+[Document51]
 DocumentPath=config-serdes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -806,8 +791,38 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document53]
+[Document52]
 DocumentPath=config-top.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document53]
+DocumentPath=config-bank7.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document54]
+DocumentPath=config-bank2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
