@@ -107,23 +107,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VWGEPXRV
 
 [Document5]
-DocumentPath=fpga-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=34
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DMGKGUSE
-
-[Document6]
 DocumentPath=array.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,59 +123,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CDJTWJWV
 
-[Document7]
-DocumentPath=fpga-bank0-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=23
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MWELJIML
-
-[Document8]
-DocumentPath=fpga-bank1-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=24
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DSCXIATL
-
-[Document9]
-DocumentPath=fpga-bank2-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=25
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EENQUOGI
-
-[Document10]
-DocumentPath=fpga-bank3-outside.SchDoc
+[Document6]
+DocumentPath=fpga-bank3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -208,8 +140,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RAMFMFFG
 
-[Document11]
-DocumentPath=fpga-bank4-outside.SchDoc
+[Document7]
+DocumentPath=fpga-bank4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -225,126 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UKSMLMAD
 
-[Document12]
-DocumentPath=fpga-bank6-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=30
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OHDPGYNJ
-
-[Document13]
-DocumentPath=fpga-bank7-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=31
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RQUHYNSR
-
-[Document14]
-DocumentPath=fpga-bank8-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=32
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WMJIQXEO
-
-[Document15]
-DocumentPath=fpga-serdes-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=38
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GFVPDCXS
-
-[Document16]
-DocumentPath=fpga-ground-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=33
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AQCITMKG
-
-[Document17]
-DocumentPath=fpga-power-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=37
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ERFIJOLA
-
-[Document18]
-DocumentPath=fpga-misc-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=35
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WLVORDHW
-
-[Document19]
+[Document8]
 DocumentPath=con-top-j4-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -361,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SRFHCOFX
 
-[Document20]
+[Document9]
 DocumentPath=con-bot-j1-0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -378,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUSHNELQ
 
-[Document21]
+[Document10]
 DocumentPath=con-top-j4-0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -395,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPSYWQBY
 
-[Document22]
+[Document11]
 DocumentPath=con-top-j3-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -412,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VBSHGYLU
 
-[Document23]
+[Document12]
 DocumentPath=con-top-j3-0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -429,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMROTWOU
 
-[Document24]
+[Document13]
 DocumentPath=con-bot-j1-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WBUEWURI
 
-[Document25]
+[Document14]
 DocumentPath=con-bot-j2-0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMGIMXHI
 
-[Document26]
+[Document15]
 DocumentPath=con-bot-j2-1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,7 +293,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXCPALRA
 
-[Document27]
+[Document16]
 DocumentPath=power-v2v5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -497,7 +310,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NINOXJWQ
 
-[Document28]
+[Document17]
 DocumentPath=power-v1v5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -514,7 +327,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NOGRPGMH
 
-[Document29]
+[Document18]
 DocumentPath=power-v0v75.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -531,8 +344,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKYXHYKI
 
-[Document30]
-DocumentPath=clock-top.SchDoc
+[Document19]
+DocumentPath=clock.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -548,7 +361,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORDBRAHG
 
-[Document31]
+[Document20]
 DocumentPath=copper_suicide.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,7 +378,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document21]
 DocumentPath=config-bank0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -582,7 +395,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXDUEMMI
 
-[Document33]
+[Document22]
 DocumentPath=config-bank1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -599,7 +412,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWBWYGLY
 
-[Document34]
+[Document23]
 DocumentPath=config-bank2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -616,7 +429,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PLDGUJEL
 
-[Document35]
+[Document24]
 DocumentPath=config-bank3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -633,7 +446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HOLLRGRT
 
-[Document36]
+[Document25]
 DocumentPath=config-bank4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -650,7 +463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYGXBOYG
 
-[Document37]
+[Document26]
 DocumentPath=config-bank6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -667,7 +480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JTSGGXAV
 
-[Document38]
+[Document27]
 DocumentPath=config-bank7.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -684,7 +497,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HJLOODLC
 
-[Document39]
+[Document28]
 DocumentPath=config-bank8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VAIPVFJR
 
-[Document40]
+[Document29]
 DocumentPath=config-ground.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -718,7 +531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHIRGMPD
 
-[Document41]
+[Document30]
 DocumentPath=config-misc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,7 +548,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WJXGWSEV
 
-[Document42]
+[Document31]
 DocumentPath=config-power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -752,7 +565,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HLSSPAOT
 
-[Document43]
+[Document32]
 DocumentPath=config-serdes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -769,8 +582,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OICHXMOD
 
-[Document44]
-DocumentPath=config-top.SchDoc
+[Document33]
+DocumentPath=config.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -786,7 +599,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXGFJIII
 
-[Document45]
+[Document34]
 DocumentPath=copper_suicide.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -803,7 +616,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPCGADMR
 
-[Document46]
+[Document35]
 DocumentPath=sdram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -820,8 +633,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKOROXUU
 
-[Document47]
-DocumentPath=fpga-outside.SchDoc
+[Document36]
+DocumentPath=fpga.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -837,7 +650,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVCATCQA
 
-[Document48]
+[Document37]
 DocumentPath=jtag-buffer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -854,41 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCDPHEXJ
 
-[Document49]
-DocumentPath=fpga-bank3-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=26
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OHGGJFYJ
-
-[Document50]
-DocumentPath=fpga-bank4-inside.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=28
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HSLGLBYK
-
-[Document51]
+[Document38]
 DocumentPath=power-v5.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -905,7 +684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RATLUNLB
 
-[Document52]
+[Document39]
 DocumentPath=copper_suicide.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -922,7 +701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document40]
 DocumentPath=copper_suicide.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -939,8 +718,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UXHYIAQQ
 
-[Document54]
-DocumentPath=fpga-bank0-outside.SchDoc
+[Document41]
+DocumentPath=fpga-bank0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -956,8 +735,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UVNMYKTN
 
-[Document55]
-DocumentPath=fpga-bank1-outside.SchDoc
+[Document42]
+DocumentPath=fpga-bank1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -973,8 +752,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSWANPJS
 
-[Document56]
-DocumentPath=fpga-bank2-outside.SchDoc
+[Document43]
+DocumentPath=fpga-bank2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -990,8 +769,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LXTWWIPV
 
-[Document57]
-DocumentPath=fpga-bank6-outside.SchDoc
+[Document44]
+DocumentPath=fpga-bank6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1007,8 +786,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUXMGQHC
 
-[Document58]
-DocumentPath=fpga-bank7-outside.SchDoc
+[Document45]
+DocumentPath=fpga-bank7.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1024,8 +803,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKQXEBIG
 
-[Document59]
-DocumentPath=fpga-bank8-outside.SchDoc
+[Document46]
+DocumentPath=fpga-bank8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1041,8 +820,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YLYLLXPV
 
-[Document60]
-DocumentPath=fpga-ground-outside.SchDoc
+[Document47]
+DocumentPath=fpga-ground.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1058,8 +837,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RAXUXCEL
 
-[Document61]
-DocumentPath=fpga-misc-outside.SchDoc
+[Document48]
+DocumentPath=fpga-misc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1075,8 +854,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLKRCNYB
 
-[Document62]
-DocumentPath=fpga-power-outside.SchDoc
+[Document49]
+DocumentPath=fpga-power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1092,8 +871,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CVILVKVY
 
-[Document63]
-DocumentPath=fpga-serdes-outside.SchDoc
+[Document50]
+DocumentPath=fpga-serdes.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1109,41 +888,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KSCTKCYI
 
-[Document64]
-DocumentPath=fpga-bank0-inside.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document65]
-DocumentPath=fpga-inside.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document66]
+[Document51]
 DocumentPath=config-bank7.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1160,24 +905,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document67]
-DocumentPath=fpga-bank8-inside.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document68]
+[Document52]
 DocumentPath=fpga-bank8-outside.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1194,7 +922,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document69]
+[Document53]
 DocumentPath=fpga-bank2-outside.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1211,7 +939,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document70]
+[Document54]
 DocumentPath=fpga-outside.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1228,7 +956,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document71]
+[Document55]
 DocumentPath=fpga-bank3-outside.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1245,7 +973,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document56]
 DocumentPath=sdram.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1262,7 +990,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
+[Document57]
 DocumentPath=fpga-bank4-outside.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1279,109 +1007,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
-DocumentPath=fpga-bank1-inside.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document75]
-DocumentPath=fpga-bank2-inside.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document76]
-DocumentPath=fpga-bank6-inside.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document77]
-DocumentPath=fpga-bank7-inside.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document78]
-DocumentPath=fpga-bank3-inside.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document79]
-DocumentPath=fpga-bank4-inside.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document80]
+[Document58]
 DocumentPath=con-top-j3-1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1398,7 +1024,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document81]
+[Document59]
 DocumentPath=con-top-j3-0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1415,7 +1041,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document82]
+[Document60]
 DocumentPath=con-bot-j1-1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1432,7 +1058,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document83]
+[Document61]
 DocumentPath=config-bank2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1449,7 +1075,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document84]
+[Document62]
 DocumentPath=config-bank3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1466,7 +1092,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document85]
+[Document63]
 DocumentPath=config-bank4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1483,7 +1109,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document86]
+[Document64]
 DocumentPath=config-bank8.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1500,7 +1126,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document87]
+[Document65]
 DocumentPath=fpga-bank0-outside.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1517,7 +1143,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document88]
+[Document66]
 DocumentPath=fpga-bank1-outside.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1534,7 +1160,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document89]
+[Document67]
 DocumentPath=fpga-bank6-outside.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1551,7 +1177,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document90]
+[Document68]
 DocumentPath=fpga-bank7-outside.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1568,7 +1194,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document91]
+[Document69]
 DocumentPath=jtag-buffer.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1585,7 +1211,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document92]
+[Document70]
 DocumentPath=clock-top.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1602,7 +1228,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document93]
+[Document71]
 DocumentPath=con-top-j4-1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1619,7 +1245,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document94]
+[Document72]
 DocumentPath=con-top-j4-0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1636,7 +1262,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document95]
+[Document73]
 DocumentPath=con-bot-j1-0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1653,7 +1279,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document96]
+[Document74]
 DocumentPath=con-bot-j2-0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1670,7 +1296,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document97]
+[Document75]
 DocumentPath=con-bot-j2-1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1687,8 +1313,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document98]
-DocumentPath=reset-top.SchDoc
+[Document76]
+DocumentPath=reset.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1703,6 +1329,74 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGJOCCTM
+
+[Document77]
+DocumentPath=map.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YIGFWLGT
+
+[Document78]
+DocumentPath=fpga-ddr-to-ddr-map.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document79]
+DocumentPath=map.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document80]
+DocumentPath=fpga-bank3.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=outputs\Net Status - copper_suicide.html
