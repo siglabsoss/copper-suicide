@@ -277,7 +277,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NINOXJWQ
 
 [Document15]
-DocumentPath=power-v1v5.SchDoc
+DocumentPath=power-vddr.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -617,7 +617,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QCDPHEXJ
 
 [Document35]
-DocumentPath=power-v5.SchDoc
+DocumentPath=power-v12.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
