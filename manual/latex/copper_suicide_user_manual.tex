@@ -1,0 +1,90 @@
+\documentclass{article}
+\usepackage[letterpaper]{geometry}
+\usepackage{fullpage}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{float}
+\usepackage{color}
+\usepackage{booktabs}
+\usepackage{epstopdf}
+
+\usepackage{fixltx2e}
+
+\usepackage{hyperref}
+\hypersetup{
+    pdftitle={Sig-Fi Overview},
+    pdfauthor={Joel D. Brinton},
+    pdfsubject={Sig-Fi Overview},
+    pdfkeywords={SigLabs, Signal Laboratories, Inc., Sig-Fi, SigFi},
+    bookmarksnumbered=true,
+    bookmarksopen=true,
+    bookmarksopenlevel=3,
+    colorlinks=true,
+    pdfpagemode=UseOutlines
+}
+\usepackage{hypcap}
+
+\usepackage{helvet}
+\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+\usepackage[T1]{fontenc}
+
+%\setlength({\droptitle}{-10em}
+
+
+
+\title{\begin{center}
+\includegraphics[scale=0.5]{logo2-normal-draft.eps}
+\end{center}
+Copper Suicide\textsuperscript{\texttrademark} User Manual\\
+Scalable FPGA Development Board\\
+% \subtitle{High Dynamic Range Radio with\\Split Ring Resonator-loaded MIMO Antenna}
+\author{Joel D. Brinton\\Signal Laboratories, Inc.}}
+% \date{July 1, 2014}
+
+\begin{document}
+
+
+\maketitle
+\section{Abstract}
+
+Copper Suicide is a scalable FPGA development board based on the Lattice Semiconductor ECP5 FPGA. It consists of an Arm Cortex-M7 processor, 1 configuration FPGA, 8 gigabytes of DDR3 SDRAM, and 16 general purpose FPGAs in a square 2-dimensional architecture. The design is extensible by stacking additional boards on top or bottom.
+
+\newpage
+
+\section{Overview}
+
+Copper Suicide is designed to have the most flexibility between interconnections, and the highest data rate. For simplicity of design, all FPGAs have the same schematic, Figure \ref{fig:fpga} shows the FPGA interconnections. Figure \ref{fig:harness} shows the harness wiring bundles.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale=1]{cs_fpga.eps}
+	\caption{Copper Suicide FPGA}
+	\label{fig:fpga}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale=1]{cs_harness.eps}
+	\caption{Copper Suicide Harness}
+	\label{fig:harness}
+\end{figure}
+
+The FPGA block diagram, Figure \ref{fig:blockdiagram}, shows all FPGA and ARM connections.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale=1]{cs_block_diagram.eps}
+	\caption{Copper Suicide Block Diagram}
+	\label{fig:blockdiagram}
+\end{figure}
+
+\newpage
+
+\section{Pinouts}
+
+
+
+
+\end{document}
