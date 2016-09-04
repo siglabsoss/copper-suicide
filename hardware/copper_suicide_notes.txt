@@ -4,7 +4,8 @@ VCCIO supplies should be powered-up before or together with the VCC and VCCAUX s
 
 what is the maximum current for vcc, vccaux, vccio???
 
-
+---------------------
+Copper Suicide R11 error
 ---------------------
 
 - don't need 128 leds
