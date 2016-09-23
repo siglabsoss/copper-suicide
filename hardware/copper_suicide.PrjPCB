@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NINOXJWQ
 
 [Document7]
-DocumentPath=power-vddr.SchDoc
+DocumentPath=power-v1v35.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -158,7 +158,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NOGRPGMH
 
 [Document8]
-DocumentPath=power-v0v75.SchDoc
+DocumentPath=power-v0v675.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -957,7 +957,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EIEIODFY
 
 [Document55]
-DocumentPath=vio-buffer.SchDoc
+DocumentPath=vio-sw.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
