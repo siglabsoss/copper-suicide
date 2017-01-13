@@ -971,7 +971,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RWLPUOTB
+DocumentUniqueId=CFDDAVHQ
 
 [Document56]
 DocumentPath=mechanical.SchDoc
@@ -4264,8 +4264,8 @@ IndexStartValue270=1
 Suffix270=
 
 [PrjClassGen]
-CompClassManualEnabled=0
-CompClassManualRoomEnabled=0
+CompClassManualEnabled=1
+CompClassManualRoomEnabled=1
 NetClassAutoBusEnabled=0
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
