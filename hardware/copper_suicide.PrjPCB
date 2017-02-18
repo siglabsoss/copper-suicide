@@ -39,6 +39,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=power-v12.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=46
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RATLUNLB
+
+[Document2]
 DocumentPath=main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -55,7 +72,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IFPNGQCQ
 
-[Document2]
+[Document3]
 DocumentPath=top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -72,7 +89,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CAMVNCOW
 
-[Document3]
+[Document4]
 DocumentPath=array.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EBMEOYXH
 
-[Document4]
+[Document5]
 DocumentPath=con-right-bot.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -106,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QPSYWQBY
 
-[Document5]
+[Document6]
 DocumentPath=con-left-bot.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMROTWOU
 
-[Document6]
+[Document7]
 DocumentPath=power-v3v3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NINOXJWQ
 
-[Document7]
+[Document8]
 DocumentPath=power-v1v35.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NOGRPGMH
 
-[Document8]
+[Document9]
 DocumentPath=power-v0v675.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HKYXHYKI
 
-[Document9]
+[Document10]
 DocumentPath=clock.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +208,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ORDBRAHG
 
-[Document10]
+[Document11]
 DocumentPath=copper_suicide.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -208,7 +225,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document12]
 DocumentPath=tie-il-cfg.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -225,7 +242,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXGFJIII
 
-[Document12]
+[Document13]
 DocumentPath=copper_suicide.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -242,7 +259,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPCGADMR
 
-[Document13]
+[Document14]
 DocumentPath=sdram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,23 +275,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKOROXUU
-
-[Document14]
-DocumentPath=power-v12.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=46
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RATLUNLB
 
 [Document15]
 DocumentPath=power-v2v5.SchDoc
