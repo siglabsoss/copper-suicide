@@ -82,6 +82,24 @@ The FPGA block diagram, Figure \ref{fig:blockdiagram}, shows all FPGA and ARM co
 	\label{fig:blockdiagram}
 \end{figure}
 
+Headers...
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale=0.6]{cs_headers.eps}
+  \caption{Copper Suicide Debug Headers}
+  \label{fig:debugheaders}
+\end{figure}
+
+ARM JTAG...
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale=0.6]{cs_arm_jtag.eps}
+  \caption{ARM Cortex-M7 JTAG Header}
+  \label{fig:armjtag}
+\end{figure}
+
 \newpage
 
 \subsection{JTAG}
@@ -92,12 +110,12 @@ The daisy-chain may be extended to additional boards through the top and bottom 
 
 Each Copper Suicide board has a TCK and TMS buffer to reduce capacitance. The TDO is a pass through 
 
-\begin{figure}[H]
-  \centering
-  \includegraphics[scale=1]{jtag_daisy.eps}
-  \caption{Copper Suicide Block Diagram}
-  \label{fig:jtagdaisy}
-\end{figure}
+% \begin{figure}[H]
+%   \centering
+%   \includegraphics[scale=1]{jtag_daisy.eps}
+%   \caption{Copper Suicide Block Diagram}
+%   \label{fig:jtagdaisy}
+% \end{figure}
 
 \section{Pinouts}
 
