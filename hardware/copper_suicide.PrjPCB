@@ -651,23 +651,6 @@ GenerateClassCluster=0
 DocumentUniqueId=GYIPWAJP
 
 [Document37]
-DocumentPath=jtag-buffer.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=41
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=0
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QCDPHEXJ
-
-[Document38]
 DocumentPath=clock.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -684,7 +667,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document39]
+[Document38]
 DocumentPath=sdram.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +684,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document39]
 DocumentPath=fpga.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -718,7 +701,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document40]
 DocumentPath=fpga-bank0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -735,7 +718,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document41]
 DocumentPath=fpga-bank3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -752,7 +735,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document43]
+[Document42]
 DocumentPath=fpga-bank6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -769,7 +752,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document44]
+[Document43]
 DocumentPath=fpga-bank8.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -786,24 +769,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document45]
-DocumentPath=jtag-buffer.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document46]
+[Document44]
 DocumentPath=fpga-bank2.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -820,7 +786,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document47]
+[Document45]
 DocumentPath=fpga-bank4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -837,7 +803,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document48]
+[Document46]
 DocumentPath=con-right-top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -854,7 +820,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YHMMQMWO
 
-[Document49]
+[Document47]
 DocumentPath=con-left-top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -871,7 +837,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INEBXKPF
 
-[Document50]
+[Document48]
 DocumentPath=mcu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -888,7 +854,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GIFQLDUA
 
-[Document51]
+[Document49]
 DocumentPath=fpga-bank1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -905,7 +871,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document52]
+[Document50]
 DocumentPath=fpga-bank7.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -922,7 +888,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document53]
+[Document51]
 DocumentPath=config.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -939,7 +905,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EIEIODFY
 
-[Document54]
+[Document52]
 DocumentPath=vio-sw.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -956,7 +922,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TFMHLWGL
 
-[Document55]
+[Document53]
 DocumentPath=tie-il07-il07.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -973,7 +939,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFDDAVHQ
 
-[Document56]
+[Document54]
 DocumentPath=mechanical.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -990,7 +956,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GICLGISA
 
-[Document57]
+[Document55]
 DocumentPath=flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1007,7 +973,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAISRIGV
 
-[Document58]
+[Document56]
 DocumentPath=fans.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1024,7 +990,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUVQLLUF
 
-[Document59]
+[Document57]
 DocumentPath=mcu-io.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1041,7 +1007,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKRWJOWN
 
-[Document60]
+[Document58]
 DocumentPath=mcu-io.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1058,7 +1024,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document61]
+[Document59]
 DocumentPath=tie-flash-cfg.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1075,7 +1041,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document62]
+[Document60]
 DocumentPath=tie-mib-imib.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1092,6 +1058,57 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MRWFMURP
 
+[Document61]
+DocumentPath=main.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document62]
+DocumentPath=jtag-switch.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=97
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QCDPHEXJ
+
+[Document63]
+DocumentPath=jtag-switch.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=outputs\Design Rule Check - copper_suicide.html
 DItemRevisionGUID=
@@ -1103,6 +1120,7 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
+GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_SmartPDF]
@@ -1266,6 +1284,16 @@ OutputName23=XSpice Netlist
 OutputDocumentPath23=
 OutputVariantName23=
 OutputDefault23=0
+OutputType24=SIMetrixNetlist
+OutputName24=SIMetrix
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+OutputType25=SIMPLISNetlist
+OutputName25=SIMPLIS
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -1277,6 +1305,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1393,8 +1431,8 @@ OutputDocumentPath18=
 OutputVariantName18=[No Variations]
 OutputDefault18=0
 PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType19=PCBDrawing
-OutputName19=Draftsman
+OutputType19=Logic Analyser Print
+OutputName19=Logic Analyser Prints
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
