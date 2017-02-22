@@ -9,6 +9,7 @@
 \usepackage{color}
 \usepackage{booktabs}
 \usepackage{epstopdf}
+\usepackage{subcaption}
 
 \usepackage{fixltx2e}
 
@@ -91,14 +92,42 @@ Headers...
   \label{fig:debugheaders}
 \end{figure}
 
-ARM JTAG...
+JTAG Connectors...
 
 \begin{figure}[H]
   \centering
-  \includegraphics[scale=0.6]{cs_arm_jtag.eps}
-  \caption{ARM Cortex-M7 JTAG Header}
-  \label{fig:armjtag}
+  \begin{subfigure}{0.5\textwidth}
+    \centering
+    \includegraphics[width=0.8\linewidth]{cs_arm_jtag}
+    \caption{ARM Cortex-M7 JTAG Header}
+    \label{fig:armjtag}
+  \end{subfigure}%
+  \begin{subfigure}{0.5\textwidth}
+    \centering
+    \includegraphics[width=0.8\linewidth]{cs_fpga_jtag}
+    \caption{FPGA JTAG Header}
+    \label{fig:fpgajtag}
+  \end{subfigure}
 \end{figure}
+
+JTAG Adapter Cables
+
+\begin{figure}[H]
+  \centering
+  \begin{subfigure}{0.5\textwidth}
+    \centering
+    \includegraphics[width=0.8\linewidth]{cs_jtag_daisy-chain_adapter_cable}
+    \caption{JTAG daisy-chain cable}
+    \label{fig:jtagdaisychaincable}
+  \end{subfigure}%
+  \begin{subfigure}{0.5\textwidth}
+    \centering
+    \includegraphics[width=0.8\linewidth]{cs_jtag_adapter_cable}
+    \caption{JTAG cable}
+    \label{fig:jtagcable}
+  \end{subfigure}
+\end{figure}
+
 
 \newpage
 
