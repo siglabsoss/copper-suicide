@@ -175,7 +175,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NOGRPGMH
 
 [Document9]
-DocumentPath=power-v0v675.SchDoc
+DocumentPath=power-vtt.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1108,6 +1108,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document64]
+DocumentPath=power-v5.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=98
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YVPORVGO
 
 [GeneratedDocument1]
 DocumentPath=outputs\Design Rule Check - copper_suicide.html
