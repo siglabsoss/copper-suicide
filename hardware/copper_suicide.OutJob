@@ -153,7 +153,7 @@ Configuration8_Name6=VisibleOrder
 Configuration8_Item6=Comment=217|Description=133|Designator=133|Footprint=133|Quantity=134
 
 [PublishSettings]
-OutputFilePath2=C:\Users\joel2\projects\copper_suicide\hardware\outputs\copper_suicide.pdf
+OutputFilePath2=C:\Users\joel2\projects\copper_suicide\hardware\outputs\copper_suicide(schem).pdf
 ReleaseManaged2=0
 OutputBasePath2=outputs\
 OutputPathMedia2=
@@ -217,7 +217,7 @@ OutputFileNameSpecial4=
 OpenOutput4=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\joel2\projects\copper_suicide\hardware\outputs\copper_suicide.pdf
+RelativeOutputPath2=C:\Users\joel2\projects\copper_suicide\hardware\outputs\copper_suicide(schem).pdf
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
