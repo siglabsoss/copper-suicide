@@ -74,7 +74,7 @@ Configuration2_Item4=Do Not Place=True|Footprint=True|Manufacturer P/N=True|Manu
 Configuration2_Name5=SortOrder
 Configuration2_Item5=Do Not Place=Up
 Configuration2_Name6=VisibleOrder
-Configuration2_Item6=Designator=100|Comment=100|Description=100|Footprint=100|Manufacturer=100|Manufacturer P/N=100|Package=100|Quantity=100|Do Not Place=100
+Configuration2_Item6=Designator=100|Manufacturer P/N=100|Description=100|Manufacturer=100|Footprint=100|Package=100|Quantity=100|Do Not Place=100
 OutputType3=ComponentCrossReference
 OutputName3=Component Cross Reference Report
 OutputCategory3=Report
