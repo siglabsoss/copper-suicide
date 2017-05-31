@@ -148,6 +148,11 @@ Each Copper Suicide board has a TCK and TMS buffer to reduce capacitance. The TD
 
 \section{Pinouts}
 
+\section{Troubleshooting}
+
+JTAG is giving readback errors : check that the TMS net is pulled up and TCK net is pulled down. Even if you are using the JTAG adapter in "direct connect" mode (as opposed to "daisy chain" mode) the board needs to be in loopback mode (J6 needs to be jumpered, pin 1 to pin 2, and pin 3 to pin 4).
+
+MCU is not programming :  make sure to unlock the MCU using the instructions in \S\ref{mcuunlock}.
 
 
 
