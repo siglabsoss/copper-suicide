@@ -1245,13 +1245,13 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document72]
-DocumentPath=tie-il-cfg-top.SchDoc
+DocumentPath=tie-mib-term0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=101
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1259,15 +1259,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RWJLJTWM
+DocumentUniqueId=QDXFDYMP
 
-[GeneratedDocument1]
-DocumentPath=outputs\Design Rule Check - copper_suicide(after_sdram_copy_pasta).html
+[Document73]
+DocumentPath=tie-mib-term1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=102
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=outputs\Design Rule Check - copper_suicide.html
-DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ROATBCPM
 
 [Configuration1]
 Name=Default Configuration
