@@ -1212,23 +1212,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document70]
-DocumentPath=array.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document71]
 DocumentPath=tie-mib-imib.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1245,7 +1228,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document72]
+[Document71]
 DocumentPath=tie-mib-term0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1262,7 +1245,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document73]
+[Document72]
 DocumentPath=tie-mib-term1.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1279,7 +1262,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document74]
+[Document73]
 DocumentPath=fpga-bank0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1296,7 +1279,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document75]
+[Document74]
 DocumentPath=fpga-bank6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
